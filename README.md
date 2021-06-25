@@ -6,5 +6,5 @@ Exercício com App Sorteio | **Java** <a href="https://www.eclipse.org/" target=
 
 
 <h3 align="center">App Preview</h3>
-<p align="center"> <a target="_blank"> <img src="https://github.com/adrielfmuniz/Netflix_Android_Interface/blob/main/Netflix%20Android%20Interface%20preview.jpeg" alt="App Sorteio" width="688" height="1280"/> </a>
+<p align="center"> <a target="_blank"> <img src="https://github.com/adrielfmuniz/Exercicio_appSorteio/blob/master/Exercicio%20Sorteio%20de%20numeros%20preview.jpeg" alt="App Sorteio" width="688" height="1280"/> </a>
 
